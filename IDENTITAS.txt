@@ -1,0 +1,10 @@
+PROJECT UAS KELOMPOK 1 TI-D
+---------------------------
+Pengelolaan Data Anggota Perpustakaan AFK Association
+
+Anggota :
+Ramadhana Muhaimin (M3119075)
+Syadza Tsurayya Eden (M3119084)
+Windhi Nur Safitri (M3119087)
+Yoga Pratama (M3119089)
+Shinta Prisma Maharani (M3119095)
